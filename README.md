@@ -50,5 +50,5 @@ Before adding a provider, verify its official documentation and terms, include a
 
 ## Maintenance
 
-- **Review date:** 10 November 2026.
+- **Review date:** 11 November 2026.
 - **Validation:** No API catalogue or integration has been tested because none is present yet.
