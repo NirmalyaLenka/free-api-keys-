@@ -52,3 +52,9 @@ Before adding a provider, verify its official documentation and terms, include a
 
 - **Review date:** 23 November 2026.
 - **Validation:** No API catalogue or integration has been tested because none is present yet.
+
+## Contact
+
+Maintained up to 25 November 2026.
+
+If you encounter any problems, please contact [carmodbhai@gmail.com](mailto:carmodbhai@gmail.com).
